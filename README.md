@@ -6,8 +6,8 @@
 
  - Construção de um Wireframe de média fidelidade com os conceitos aprendido nas aulas de um produto ou um serviço. (FIGMA)
 
-<a href="https://www.figma.com/file/3OGIBr1f4mjeP5WCbm8CFC/Wireframe---Barbearia?node-id=2%3A2&t=WlwXUqJzJXs4cm8u-1">Projeto 1 (desktop)</a> - Site barbearia <br>
-<a href="https://user-images.githubusercontent.com/124079997/234699622-d785c659-9466-4953-bd29-197274a0ecb7.png">Projeto 2 (mobile) </a> - App de filmes
+<a href="https://user-images.githubusercontent.com/124079997/234701817-bd0f4e6b-3a16-475c-929f-d55eeac44544.png" target="_blank">Projeto 1 (desktop)</a> - Site barbearia <br>
+<a href="https://user-images.githubusercontent.com/124079997/234699622-d785c659-9466-4953-bd29-197274a0ecb7.png" target="_blank">Projeto 2 (mobile) </a> - App de filmes
 
 
 desafio 2 
