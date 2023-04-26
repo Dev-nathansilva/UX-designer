@@ -4,10 +4,10 @@
 
 ## 🎯 Desafio 1 
 
- - Construção de um Wireframe de média fidelidade com os conceitos aprendido nas aulas de um produto ou um serviço.
+ - Construção de um Wireframe de média fidelidade com os conceitos aprendido nas aulas de um produto ou um serviço. (FIGMA)
 
-<a href="https://user-images.githubusercontent.com/124079997/234699046-3f03a56a-1d29-4a2b-9bbe-3a41ffa8916d.png">projeto 1 (desktop)</a> - Site barbearia <br>
-<a href="https://user-images.githubusercontent.com/124079997/234699622-d785c659-9466-4953-bd29-197274a0ecb7.png">projeto 2 (mobile) </a> - App de filmes
+<a href="https://www.figma.com/file/3OGIBr1f4mjeP5WCbm8CFC/Wireframe---Barbearia?node-id=2%3A2&t=WlwXUqJzJXs4cm8u-1">Projeto 1 (desktop)</a> - Site barbearia <br>
+<a href="https://user-images.githubusercontent.com/124079997/234699622-d785c659-9466-4953-bd29-197274a0ecb7.png">Projeto 2 (mobile) </a> - App de filmes
 
 
 desafio 2 
