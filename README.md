@@ -1,2 +1,2 @@
 # UX-designer
-projetos desenvolvidos durante o curso da DIO de ux designer!!!
+Aqui você verá minha evolução, aprendizado e projetos desenvolvidos durante o curso UX designer da DIO!!!
