@@ -6,8 +6,8 @@
 
  - Construção de um Wireframe de média fidelidade com os conceitos aprendido nas aulas de um produto ou um serviço.
 
-projeto 1 (desktop) - 
-projeto 2 mobile - 
+<a href="https://user-images.githubusercontent.com/124079997/234699046-3f03a56a-1d29-4a2b-9bbe-3a41ffa8916d.png">projeto 1 (desktop)</a> - Site barbearia <br>
+<a href="https://user-images.githubusercontent.com/124079997/234699622-d785c659-9466-4953-bd29-197274a0ecb7.png">projeto 2 (mobile) </a> - App de filmes
 
 
 desafio 2 
