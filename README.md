@@ -29,10 +29,10 @@ de contraste das mesmas.</pre>
 📑<i>Descrição</i>:<br>
 <pre>
 No primeiro projeto foi criado um Protótipo para uma aplicação mobile. Resolvi produzir um app para 
-comprar ingressos de filmes de cinema, onde possui uma incrivél variedade e facilidade na hora de procurar 
+comprar ingressos de filmes de cinema, onde possui uma incrível variedade e facilidade na hora de procurar 
 o que você deseja.
 
-Já no segundo protótipo foi proposto um site de uma barbearia com todas suas informações de localização, 
+Já no segundo protótipo foi proposto um site de uma barbearia com todas as informações de localização, 
 barbeiros, um pouco da história da barbearia, agendamento e entre outras. Sempre apresentando o serviço 
 da melhor forma e com a melhor experiência para o usuário. 
 
