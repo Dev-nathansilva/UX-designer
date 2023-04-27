@@ -28,7 +28,7 @@ de contraste das mesmas.</pre>
 - criação do Wireframe até a criação de um Mockup navegável.<br><br>
 📑<i>Descrição</i>:<br>
 <pre>
-Neste primeiro projeto foi criado um Protótipo para uma aplicação mobile. Resolvi produzir um app para 
+No primeiro projeto foi criado um Protótipo para uma aplicação mobile. Resolvi produzir um app para 
 comprar ingressos de filmes de cinema, onde possui uma incrivél variedade e facilidade na hora de procurar 
 o que você deseja.
 
